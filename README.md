@@ -1,8 +1,8 @@
 ## 👋 Hi, It's Azra
-• Computer Engineering Student | Bolu Abant İzzet Baysal University, Türkiye <br>
+• <b> Computer Engineering Student | Bolu Abant İzzet Baysal University, Türkiye <br>
 • Currently working on an indie pixel-art RPG (Godot)
 
-🖥️ Open to Internship Opportunities
+🖥️ Open to Internship Opportunities <b/>
 <!--
 **AzraDnr/AzraDnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
