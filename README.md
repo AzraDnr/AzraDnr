@@ -1,4 +1,5 @@
 ## 👋 Hi, It's Azra
+-Computer Engineering Student in Türkiye/Bolu Abant İzzet Baysal University
 
 <!--
 **AzraDnr/AzraDnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
