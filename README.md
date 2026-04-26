@@ -1,5 +1,5 @@
 ## 👋 Hi, It's Azra
-• Computer Engineering Student | Bolu Abant İzzet Baysal University, Türkiye
+• Computer Engineering Student | Bolu Abant İzzet Baysal University, Türkiye <br>
 • Currently working on an indie pixel-art RPG (Godot)
 
 🖥️ Open to Internship Opportunities
